@@ -1,0 +1,16 @@
+{
+  "name": "promise-git",
+  "version": "0.0.1",
+  "author": "luckydrq",
+  "email": "drqzju@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luckydrq/promise-git.git"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "promise-exec": "^0.1.0"
+  }
+}
